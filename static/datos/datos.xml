@@ -1,0 +1,54 @@
+<?xml version='1.0'  encoding='UTF-8'?>
+<droguerias>
+	<drogueria>
+		<nombre>la Rebaja</nombre>
+		<latitud>1.207025</latitud>
+		<longitud>-77.27530200000001</longitud>
+		<descripcion>Drogueria de Calidad</descripcion>
+		<imagenes>
+			<imagen>static/images/larebaja.jpg</imagen>
+		</imagenes>
+	</drogueria>
+
+	<drogueria>
+		<nombre> Pasteur</nombre>
+		<latitud>1.1976625</latitud>
+		<longitud>-77.26414030000001</longitud>
+		<descripcion>Drogueria de Calidad</descripcion>
+		<imagenes>
+			<imagen>static/images/pasteur.png</imagen>
+		</imagenes>
+	</drogueria>
+
+	<drogueria>
+		<nombre>Comfamiliar</nombre>
+		<latitud>1.2256079</latitud>
+		<longitud>-77.28162759999998</longitud>
+		<descripcion>Drogueria de Calidad</descripcion>
+		<imagenes>
+			<imagen>static/images/comfamiliar.jpg</imagen>
+		</imagenes>
+	</drogueria>
+
+	<drogueria>
+		<nombre>Los Angeles</nombre>
+		<latitud>1.19783</latitud>
+		<longitud>-77.27208000000002</longitud>
+		<descripcion>Drogueria de Calidad</descripcion>
+		<imagenes>
+			<imagen>static/images/angeles.jpg</imagen>
+		</imagenes>
+	</drogueria>
+
+	<drogueria>
+		<nombre>Prevensur</nombre>
+		<latitud>1.218176</latitud>
+		<longitud>-77.28623140000002</longitud>
+		<descripcion>Drogueria de Calidad</descripcion>
+		<imagenes>
+			<imagen>static/images/prevensur.jpg</imagen>
+		</imagenes>
+	</drogueria>
+
+
+</droguerias>
